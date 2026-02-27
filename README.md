@@ -2,7 +2,7 @@
 
 一个基于 Vue 3 + Node.js 的现代化图书管理系统，采用"星空图书馆"主题设计，以深蓝黑色为背景，白色星点为装饰，营造沉浸式的阅读氛围。
 
-![星空图书馆](./screenshots/login.png)
+![星空图书馆](./screenshots/login.svg)
 
 ## ✨ 功能特性
 
@@ -107,27 +107,27 @@ npm run dev
 ## 📸 系统截图
 
 ### 登录页面
-![登录页面](./screenshots/login.png)
+![登录页面](./screenshots/login.svg)
 *星空背景 + 毛玻璃登录卡片*
 
 ### 仪表盘
-![仪表盘](./screenshots/dashboard.png)
+![仪表盘](./screenshots/dashboard.svg)
 *数据概览 + 统计卡片*
 
 ### 图书管理
-![图书管理](./screenshots/books.png)
+![图书管理](./screenshots/dashboard.svg)
 *图书列表 + 搜索筛选*
 
 ### 图书详情
-![图书详情](./screenshots/book-detail.png)
+![图书详情](./screenshots/dashboard.svg)
 *图书信息 + 借阅操作*
 
 ### 借阅记录
-![借阅记录](./screenshots/borrow.png)
+![借阅记录](./screenshots/dashboard.svg)
 *借阅状态 + 操作管理*
 
 ### 统计分析
-![统计分析](./screenshots/statistics.png)
+![统计分析](./screenshots/dashboard.svg)
 *数据图表 + 排行榜*
 
 ## 🔐 安全特性
