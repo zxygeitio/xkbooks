@@ -23,21 +23,24 @@
 ### 前端
 | 技术 | 版本 | 说明 |
 |------|------|------|
-| Vue 3 | ^3.x | 渐进式 JavaScript 框架 |
+| Vue | ^3.5.x | 渐进式 JavaScript 框架 |
 | Vite | ^7.x | 下一代前端构建工具 |
-| Element Plus | ^2.x | Vue 3 组件库 |
-| Pinia | ^2.x | Vue 状态管理 |
-| Vue Router | ^4.x | Vue 路由管理 |
-| ECharts | ^5.x | 数据可视化图表库 |
+| Element Plus | ^2.13.x | Vue 3 组件库 |
+| Pinia | ^3.x | Vue 状态管理 |
+| Vue Router | ^4.6.x | Vue 路由管理 |
+| ECharts | ^6.x | 数据可视化图表库 |
+| Axios | ^1.13.x | HTTP 请求库 |
 
 ### 后端
 | 技术 | 版本 | 说明 |
 |------|------|------|
 | Node.js | ^18.x | JavaScript 运行环境 |
-| Express | ^4.x | Web 应用框架 |
-| SQLite | better-sqlite3 | 轻量级数据库 |
-| JWT | jsonwebtoken | 身份认证 |
-| bcryptjs | ^2.x | 密码加密 |
+| Express | ^5.2.x | Web 应用框架 |
+| better-sqlite3 | ^12.6.x | SQLite 数据库 |
+| jsonwebtoken | ^9.x | 身份认证 |
+| bcryptjs | ^3.x | 密码加密 |
+| multer | ^2.x | 文件上传 |
+| cors | ^2.8.x | 跨域处理 |
 
 ## 📦 项目结构
 
